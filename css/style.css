@@ -295,6 +295,7 @@ nav ul li {
     font-size:22px;
     font-family:Mohave;
     font-weight: bold;
+    width: 55px;
     color: rgba(54, 69, 74, 0.9);
 }
 .footerPhone{
