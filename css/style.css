@@ -32,12 +32,18 @@ nav ul li {
     font-family:Mohave;
     cursor:pointer;
 }
+nav ul li a{
+    color:#FDF9F5;
+}
+nav ul li a:hover{
+    color:#FDF9F5;
+}
 .name{
     font-family:Pompiere;
     font-size: 24px;
     color:#FDF9F5;
     position:fixed;
-    margin-left: 588px;
+    margin-left: 310px;
     padding-top:22px;
 
 }
@@ -295,7 +301,6 @@ nav ul li {
     font-size:22px;
     font-family:Mohave;
     font-weight: bold;
-    width: 55px;
     color: rgba(54, 69, 74, 0.9);
 }
 .footerPhone{
